@@ -1,9 +1,9 @@
 # Knowledge Process Demonstration
 
-Rough Notes of Ashtadhyayi Sahaj Bodh
+Working Notes of Ashtadhyayi Sahaj Bodh
 
 - Important to understand growth, collection and processing of Ashtadhyayi Sahaj Bodh. 
-- Rough notes lead to fair rightly factored ones. 
+- Use of Mind Mapping as analysis tool to get out the best needed result. 
 - Beauty and understanding in sync. 
 
 ![asb-r-2021-09-20-1](asb-r-2021-09-20-1.jpg)
