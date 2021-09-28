@@ -3,7 +3,7 @@
 - [ ] [Ashtadhyayi Sahajbodh Sarvdhatuk Khand](https://archive.org/details/wg849)
 - Ashtadhyayi Sanskrit Grammar given by [Maharishi Panini](https://en.m.wikipedia.org/wiki/P%C4%81%E1%B9%87ini). 
 - Grammar in Eight Books with Four Chapters each, each chapter containing 38-220 Sutras. 
-- [Knowledge Process Demonstration](rough-01.md)
+- [Knowledge Process Demonstration - Chapter 1](पाठ-१.md)
 
 ![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
 
