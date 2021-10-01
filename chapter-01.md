@@ -1,6 +1,8 @@
-# Chapter 1
+# Ashtadhyayi Sahajbodh 1
 
-## Knowledge Process Demonstration
+## Chapter 1
+
+### Knowledge Process Demonstration
 
 Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 

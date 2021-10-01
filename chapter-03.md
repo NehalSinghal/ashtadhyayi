@@ -1,6 +1,8 @@
-# Chapter 3
+# Ashtadhyayi Sahajbodh 1
 
-## 2021-09-29
+## Chapter 3
+
+### 2021-09-29
 
 ![asb1-03-2021-09-29-01](asb1-03-2021-09-29-01.jpg)
 

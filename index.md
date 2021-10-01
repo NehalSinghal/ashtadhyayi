@@ -3,6 +3,7 @@
 - [ ] [Ashtadhyayi Sahajbodh Sarvdhatuk Khand](https://archive.org/details/wg849) 
 - Knowledge Process Demonstration - 
     - [Chapter 1](chapter-01.md)
+    - [Chapter 2](chapter-02.md)
     - [Chapter 3](chapter-03.md)
 
 ![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
