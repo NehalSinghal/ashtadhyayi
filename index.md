@@ -7,12 +7,6 @@
     - [Chapter 3](chapter-03.md)
     - [Chapter 6](chapter-06.md)
 
-## Abbreviations
-
-### 2021-10-09
-
-![asbabbr-2021-10-09-1](asbabbr-2021-10-09-1.jpg)
-
 ## Ashtadhyayi Sahajbodh 1 Initially Factored Samples 
 
 ![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
