@@ -1,13 +1,13 @@
-# Ashtadhyayi Sahajbodh 1 Mind Maps
+# अष्टाध्यायी सहजबोध १ 
 
-- [ ] [Ashtadhyayi Sahajbodh Sarvdhatuk Khand](https://archive.org/details/wg849) 
-- Knowledge Process Demonstration - 
-    - [Chapter 1](chapter-01.md)
-    - [Chapter 2](chapter-02.md)
-    - [Chapter 3](chapter-03.md)
-    - [Chapter 6](chapter-06.md)
+- [ ] [अष्टाध्यायी सहजबोध सार्वधातुक खण्ड](https://archive.org/details/wg849) 
+- ज्ञान प्रक्रिया - 
+    - [पाठ १](chapter-01.md)
+    - [पाठ २](chapter-02.md)
+    - [पाठ ३](chapter-03.md)
+    - [पाठ ६](chapter-06.md)
 
-## Ashtadhyayi Sahajbodh 1 Initially Factored Samples 
+## अष्टाध्यायी सहजबोध १ प्रारम्भिक सम्यक विभाजित ज्ञान चित्र उदाहरण 
 
 ![asb-2021-09-01-f-01](asb-2021-09-01-f-01.jpg)
 
