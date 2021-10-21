@@ -1,19 +1,17 @@
-# Ashtadhyayi Sahajbodh 1
+# अष्टाध्यायी सहजबोध १ 
 
-## Chapter 1
+## पाठ १
 
-### Knowledge Process Demonstration
+### ज्ञान प्रक्रिया
 
-Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
+- ज्ञान चित्र महत्वपूर्ण विकास एवं प्रक्रिया 
+- सुन्दरता एवं समझ का संगम
 
-- Important to understand growth, collection and processing of Ashtadhyayi Sahaj Bodh-1. 
-- Beauty and understanding in sync. 
-
-### Table of Contents
+### विषयानुक्रमणिका
 
 ![asb1-toc-2021-09-25-06](asb1-toc-2021-09-25-06.jpg)
 
-### 2021-09-20
+### २०२१-०९-२० 
 
 ![asb-r-2021-09-20-1](asb-r-2021-09-20-1.jpg)
 
@@ -23,7 +21,7 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 
 ![asb-r-2021-09-20-3](asb-r-2021-09-20-3.jpg)
 
-### 2021-09-21
+### २०२१-०९-२१ 
 
 ![asb-r-2021-09-21-1](asb-r-2021-09-21-1.jpg)
 
@@ -31,7 +29,7 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 
 ![asb-r-2021-09-21-3](asb-r-2021-09-21-3.jpg)
 
-### 2021-09-22
+### २०२१-०९-२२ 
 
 ![asb-r-2021-09-22-1](asb-r-2021-09-22-1.jpg)
 
@@ -43,7 +41,7 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 
 ![asb-r-2021-09-22-5](asb-r-2021-09-22-5.jpg)
 
-### 2021-09-23
+### २०२१-०९-२३ 
 
 ![asb-r-2021-09-23-1](asb-r-2021-09-23-1.jpg)
 
@@ -57,7 +55,7 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 
 ![asb-r-2021-09-23-6](asb-r-2021-09-23-6.jpg)
 
-### 2021-09-24
+### २०२१-०९-२४ 
 
 ![asb-r-2021-09-24-1](asb-r-2021-09-24-1.jpg)
 
@@ -65,7 +63,7 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 
 ![asb-r-2021-09-24-3](asb-r-2021-09-24-3.jpg)
 
-### 2021-09-25
+### २०२१-०९-२५ 
 
 ![asb1-1-2021-09-25-01](asb1-1-2021-09-25-01.jpg)
 
@@ -76,3 +74,21 @@ Notes of Ashtadhyayi Sahaj Bodh-1 Chapter-1
 ![asb1-1-2021-09-25-04](asb1-1-2021-09-25-04.jpg)
 
 ![asb1-1-2021-09-25-05](asb1-1-2021-09-25-05.jpg)
+
+### २०२१-१०-२०
+
+![asb1-1-2021-10-20-4](asb1-1-2021-10-20-4.jpg)
+
+![asb1-1-2021-10-20-5](asb1-1-2021-10-20-5.jpg)
+
+![asb1-1-2021-10-20-6](asb1-1-2021-10-20-6.jpg)
+
+![asb1-1-2021-10-20-7](asb1-1-2021-10-20-7.jpg)
+
+![asb1-1-2021-10-20-8](asb1-1-2021-10-20-8.jpg)
+
+![asb1-1-2021-10-20-9](asb1-1-2021-10-20-9.jpg)
+
+
+
+
